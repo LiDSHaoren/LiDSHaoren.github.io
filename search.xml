@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Http协议]]></title>
+    <url>%2F2019%2F07%2F13%2FHttp%E5%8D%8F%E8%AE%AE%2F</url>
+    <content type="text"><![CDATA[学习一下Http协议 概念 Url和Uri 超文本 Http与Https 请求 响应 概念学习 http协议是双向的（请求与响应）、应用层的、超文本（即指html、图片、视频均为这个文本的一部分）的一种规定； Url和Uri Url 是目前最常用的；Url是Uri的子集，Uri还包括Urn。 Url：统一资源定位符，通过这个链接，我们可以找到这个资源对应的位置；（比如电脑中的某位置，或图书馆某书的位置） Urn：统一资源名称（如：某个人的身份证号码，可以证明这个人的身份，但无法找到这人现在的所在位置）。 Uri：统一资源标志符，Url和Urn的合集。 超文本 网页源代码，这些网页源代码就是超文本。 Http与Https的区别 Https在Http的基础上增加了SSL层，是Http的安全版本，简称为Https。 https的两种优势： 1、建立一个信息通道来保证安全； 2、确认网站的真实性，凡是使用了Http的网站，可以使用锁头标志来了解网站的真实信息。 12306:您的链接不是私密链接，证书是铁道部自己下发的，不被CA机构认可，但是仍然是加密的（之前的情况，现在已经是加密的）。 请求 请求的网址：即统一资源定位符 请求头： Accept：请求报头，类型； Accept-Language：语言类型； Accept-Encoding：内容编码； Host：主机的端口号和主机IP； cookie：识别出我是我； refer：请求是从哪个页面发送过来的； User-Agent：浏览器的相关信息； 请求体： 一般用于post方法。 响应 响应状态码：Status Code（1XX、2XX、3XX、4XX、5XX） 1XX：go、继续 2XX：服务器成功地处理了； 3XX：请求者的相关问题； 4XX：服务器处理中的相关问题； 5XX：服务器内部错误 响应头：服务器响应的相关信息； 响应体：返回的主体（html网页）。]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[第一篇Blog]]></title>
+    <url>%2F2019%2F07%2F13%2F%E7%AC%AC%E4%B8%80%E7%AF%87Blog%2F</url>
+    <content type="text"><![CDATA[Subway第一篇文章 Hello,World.三级标题 列表1 列表2 a 子列表哦 b 子列表 列表3 B站导航 斜线字体 字体加粗 123456789&lt;html&gt;&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt; &lt;title&gt;标题&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;&gt; 引用内容]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>导航</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F07%2F12%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>

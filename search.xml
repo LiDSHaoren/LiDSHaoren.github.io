@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[云养猫]]></title>
+    <url>%2F2019%2F07%2F26%2F%E4%BA%91%E5%85%BB%E7%8C%AB%2F</url>
+    <content type="text"><![CDATA[我的云养猫经历]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[我的Ubuntu安装经历]]></title>
     <url>%2F2019%2F07%2F23%2F%E6%88%91%E7%9A%84Ubuntu%E5%AE%89%E8%A3%85%E5%8E%86%E7%A8%8B%2F</url>
     <content type="text"><![CDATA[闲置了旧的联想电脑，就安装个Ubuntu系统吧！～skr 前段时间新换了Macbook Pro，突然感觉苹果的电脑居然这么好用，系统很流畅、软件安装很方便、网上可以找到免费的软件安装（Navicat Premium居然可以找到免费版本，windows系统下找了很久才找到免费版）、外观好看、触控板超好用，这是什么神奇电脑啊。 咳，回归主题。由于用mac，所以之前的windows闲置了下来，做点什么好呢，安装个linux系统吧 linux系统linux并不是具体一个系统，有很多系统基于linux开发，比如centos、ubuntu、deepin等，选择了很久，ubuntu的界面应该是最简便，并有很多功能的，就选Ubuntu了！ 安装第一步确认安装方式（我是选择U盘安装） 下载Ubuntu系统、U盘启动工具 Ubuntu在官网下载Ubuntu 选择下载版本，我选择了18.04版本，而非最新的19.04版本，下载得到一个ISO镜像文件。 下载U盘启动工具，我用的软碟通，ultraiso，完成后安装，选择打开镜像文件，并录入到你的U盘中，模式选择HDD+ 第二部步磁盘分区 在windows中搜索“创建及格式化分区”之后选择C盘，新建卷—压缩卷—命名新卷名称（这一步我跳过了，我只要Ubuntu就好啦） 第三步启动U盘安装，进入BIOS模式，我的电脑是按FN+F2，选择boot，选择lengray，传统模式启动，Fn+F10保存，之后电脑自动进入重启，按住Fn+F12.进入Ubuntu安装界面。 第四步安装选择 选择简体中文，安装磁盘位置，因为我想不用windows系统了，所以直接删除掉windows，并直接安装。 之后即显示安装完成了。 下面就开启Ubuntu模式吧。 不说了，我要去给我的Ubuntu更新软件去了。]]></content>
